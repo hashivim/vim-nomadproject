@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Supports%20Nomad%20Version-0.8.6-blue.svg)](https://github.com/hashicorp/nomad/blob/v0.8.6/CHANGELOG.md)
+
 # Call For Maintainers
 
 This plugin, along with others like it, is now maintained by the
